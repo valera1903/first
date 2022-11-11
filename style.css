@@ -1,0 +1,14 @@
+.body {
+    position: absolute;
+    width: 159px;
+    height: 30px;
+    left: 126px;
+    top: 52px;
+    
+    font-family: 'Baskerville';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+
+}
